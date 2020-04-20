@@ -7,3 +7,7 @@ I will build an inventory system to keep track of my personal comic book collect
              When reporting titles will link noteable mini series and one shots
              
 System requirements: ASP.NET, Entity Framework, SQL
+
+Milestones: Week 6 - Build basic CRUD System, Build sizeable portion of JSON file
+            Week 7 - Build search features and reporting option
+            Week 8 - Finalize JSON file
